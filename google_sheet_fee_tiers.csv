@@ -1,0 +1,4 @@
+Min_Amount,Max_Amount,Fee_Percent,Description
+1,1000,4,Standard fee for small amounts
+1001,10000,3,Reduced fee for medium amounts
+10001,999999,2,Lowest fee for large amounts

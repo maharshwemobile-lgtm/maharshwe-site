@@ -1,0 +1,10 @@
+{
+  "date": "09-04-2026",
+  "bot_buy": 129.87,
+  "bot_sell": 133.33,
+  "customer_buy": 124.68,
+  "customer_sell": 138.66,
+  "service_fee_percent": 4,
+  "updated_at": "2026-04-09T03:25:22.320080",
+  "source": "forwarded_from_mmktodaybot"
+}
